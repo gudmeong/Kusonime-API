@@ -1,5 +1,5 @@
 # Use the official Node.js image as the base image
-FROM node:14
+FROM node:latest
 
 # Set the working directory inside the container
 WORKDIR /usr/src/app
@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # Start your Node.js application
-CMD ["npm", "index.js"]
+CMD ["node", "index.js"]
