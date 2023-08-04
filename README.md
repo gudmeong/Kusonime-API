@@ -1,4 +1,4 @@
-# Kusonime API
+# Kusonime API Original Project by https://github.com/KatowProject/Kusonime-API
 
 ## About
 
