@@ -20,4 +20,5 @@ Kusonime Scrapper, Kusonime API
 
 ### Selamat Mencoba
 ![](./assets/img/Saenai%20Heroine%20no%20Sodatekata%20-%2004%20-%20Large%2005.jpg)
- 
+
+CREDIT: KatowProject
